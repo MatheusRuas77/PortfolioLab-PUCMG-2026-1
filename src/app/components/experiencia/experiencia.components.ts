@@ -9,6 +9,7 @@ export interface Experiencia {
   image: string;
 }
 
+
 @Component({
   selector: 'app-experiencia',
   styleUrl: './experiencia.scss',
