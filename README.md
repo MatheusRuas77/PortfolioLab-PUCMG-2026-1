@@ -224,3 +224,4 @@ npm run start
 Este projeto é distribuído sob a **[Licença MIT](./LICENSE)**.
 
 ---
+.
