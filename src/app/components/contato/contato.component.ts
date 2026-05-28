@@ -25,7 +25,7 @@ export class ContatoComponent implements AfterViewInit {
   successMessage = '';
   errorMessage = '';
 
-  // Configurações do EmailJS - substitua com suas chaves
+  // Configurações do EmailJS - substitua com suas chave
   private readonly SERVICE_ID = 'service_gemeq1i';
   private readonly TEMPLATE_ID = 'template_iasb7mc';
   private readonly PUBLIC_KEY = '-nhm_RpWVZP535w7s';
